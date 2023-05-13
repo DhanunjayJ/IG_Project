@@ -1,0 +1,66 @@
+.login-page {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #fafafa;
+  }
+  
+  .login-form-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #fff;
+    border: 1px solid #dbdbdb;
+    border-radius: 3px;
+    padding: 40px;
+  }
+  
+  .instagram-logo img {
+    width: 215px;
+    height: 70px;
+    margin-bottom: 20px;
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  input[type="text"],
+  input[type="password"],
+  button {
+    width: 100%;
+    height: 38px;
+    margin-bottom: 10px;
+    border: 1px solid #dbdbdb;
+    border-radius: 3px;
+    padding: 8px;
+    background-color: #fafafa;
+    font-size: 14px;
+  }
+  
+  button {
+    background-color: #0095f6;
+    color: #fff;
+    font-weight: 600;
+    cursor: pointer;
+  }
+  
+  .forgot-password {
+    margin-top: 10px;
+    color: #0095f6;
+    text-decoration: none;
+  }
+  
+  .signup-container {
+    margin-top: 20px;
+    font-size: 14px;
+    text-align: center;
+  }
+  
+  .signup-container a {
+    color: #0095f6;
+    text-decoration: none;
+  }
+  

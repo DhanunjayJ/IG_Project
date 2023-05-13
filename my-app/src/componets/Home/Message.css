@@ -1,0 +1,21 @@
+.like-message {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 10px;
+  }
+  
+  .like-message .avatar {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+  }
+  
+  .like-message .username {
+    font-weight: bold;
+  }
+  
+  .like-message .action-icon {
+    color: #262626;
+  }
+  

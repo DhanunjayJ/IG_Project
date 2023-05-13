@@ -1,0 +1,30 @@
+.explore-page {
+    padding: 20px;
+  }
+  
+  .explore-header {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 30px;
+  }
+  
+  .explore-header h2 {
+    font-size: 2rem;
+  }
+  
+  .explore-grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .explore-grid a {
+    margin: 10px;
+  }
+  
+  .explore-grid img {
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+  }
+  

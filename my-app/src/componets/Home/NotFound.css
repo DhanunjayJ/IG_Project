@@ -1,0 +1,33 @@
+.not-found-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #fafafa;
+  }
+  
+  .not-found-image {
+    width: 40%;
+    margin-right: 40px;
+  }
+  
+  .not-found-text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    font-family: Arial, sans-serif;
+    color: #777;
+  }
+  
+  h1 {
+    font-size: 72px;
+    font-weight: bold;
+    margin: 0;
+  }
+  
+  p {
+    font-size: 24px;
+    margin: 20px 0;
+  }
+  

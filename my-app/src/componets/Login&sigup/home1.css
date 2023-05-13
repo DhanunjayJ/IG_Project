@@ -1,0 +1,28 @@
+.title-container {
+    text-align: center;
+  }
+  
+  .title {
+    font-size: 2.5rem;
+    margin-top: 2rem;
+  }
+  
+
+.logo-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+  }
+  
+  .logo-image {
+    width: 200px;
+    height: 200px;
+  }
+
+  .instagram-logo img {
+    width: 215px;
+    height: 70px;
+    margin-bottom: 20px;
+  }
+  
